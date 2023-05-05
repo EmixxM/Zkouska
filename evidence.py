@@ -5,7 +5,7 @@ class Evidencer:
         self.pojisteni = []
 
     def pridej_pojisteneho(self):
-        jmeno = input("Zadejte jmero pojisteného: ")
+        jmeno = input("Zadejte jméno pojisteného: ")
         prijmeni = input("Zadejte příjmení: ")
         telefon = input("Zadejte telefoní číslo: ")
         vek = input("Zadejte věk: ")
